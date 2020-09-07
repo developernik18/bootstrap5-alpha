@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap5-alpha",
+  "version": "1.0.0",
+  "description": "Just trying v5 bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developernik18/bootstrap5-alpha.git"
+  },
+  "author": "DeveloperNik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developernik18/bootstrap5-alpha/issues"
+  },
+  "homepage": "https://github.com/developernik18/bootstrap5-alpha#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0",
+    "popper.js": "^1.16.1"
+  }
+}
